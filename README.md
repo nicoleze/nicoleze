@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicoleze
 - 👀 I’m interested in poetry, surfing, music
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me nicoleze on discord
+- 💞️ I’m looking to collaborate on: n/a
+- 📫 How to reach me: nicoleze on discord
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like cats
 
